@@ -1,0 +1,28 @@
+{
+  "id": "angelitocasasis/exercise-data-types-and-missing-values",
+  "id_no": 83179382,
+  "title": "Exercise: Data Types and Missing Values",
+  "code_file": "exercise-data-types-and-missing-values.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "rtatman/188-million-us-wildfires",
+    "nolanbconaway/pitchfork-data",
+    "datasnaek/chess",
+    "nasa/kepler-exoplanet-search-results",
+    "dansbecker/powerlifting-database",
+    "residentmario/ramen-ratings",
+    "residentmario/things-on-reddit",
+    "datasnaek/youtube-new",
+    "jpmiller/publicassistance",
+    "zynicide/wine-reviews"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}
