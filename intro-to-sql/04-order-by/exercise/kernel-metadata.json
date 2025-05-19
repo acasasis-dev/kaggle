@@ -1,0 +1,20 @@
+{
+  "id": "angelitocasasis/exercise-order-by",
+  "id_no": 83253739,
+  "title": "Exercise: Order By",
+  "code_file": "exercise-order-by.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "usdot/nhtsa-traffic-fatalities",
+    "theworldbank/world-bank-intl-education"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}
