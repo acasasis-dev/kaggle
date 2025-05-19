@@ -1,0 +1,19 @@
+{
+  "id": "angelitocasasis/exercise-group-by-having-count",
+  "id_no": 83213096,
+  "title": "Exercise: Group By, Having & Count",
+  "code_file": "exercise-group-by-having-count.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "hacker-news/hacker-news"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}
