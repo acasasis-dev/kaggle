@@ -1,0 +1,20 @@
+{
+  "id": "angelitocasasis/exercise-as-with",
+  "id_no": 83256161,
+  "title": "Exercise: As & With",
+  "code_file": "exercise-as-with.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "bigquery/bitcoin-blockchain",
+    "chicago/chicago-taxi-trips-bq"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}
