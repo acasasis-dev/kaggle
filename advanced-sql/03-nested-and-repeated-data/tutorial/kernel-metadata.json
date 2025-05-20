@@ -1,0 +1,21 @@
+{
+  "id": "alexisbcook/nested-and-repeated-data",
+  "id_no": 5045820,
+  "title": "Nested and Repeated Data",
+  "code_file": "nested-and-repeated-data.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "programming"
+  ],
+  "dataset_sources": [
+    "bigquery/google-analytics-sample"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

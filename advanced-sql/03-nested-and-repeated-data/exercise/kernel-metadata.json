@@ -1,0 +1,19 @@
+{
+  "id": "angelitocasasis/exercise-nested-and-repeated-data",
+  "id_no": 83327008,
+  "title": "Exercise: Nested and Repeated Data",
+  "code_file": "exercise-nested-and-repeated-data.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "github/github-repos"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}
