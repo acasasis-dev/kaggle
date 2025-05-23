@@ -1,0 +1,19 @@
+{
+  "id": "angelitocasasis/exercise-distributions",
+  "id_no": 83537022,
+  "title": "Exercise: Distributions",
+  "code_file": "exercise-distributions.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "alexisbcook/data-for-datavis"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}
