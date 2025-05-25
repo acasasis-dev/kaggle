@@ -1,0 +1,19 @@
+{
+  "id": "angelitocasasis/exercise-scaling-and-normalization",
+  "id_no": 83671141,
+  "title": "Exercise: Scaling and Normalization",
+  "code_file": "exercise-scaling-and-normalization.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "kemical/kickstarter-projects"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}
